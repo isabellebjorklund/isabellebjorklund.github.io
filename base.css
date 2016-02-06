@@ -52,8 +52,8 @@ ul.portfolio li a {
 
 ul.portfolio li img {
 	display: block;
-	width: 300px;
-	height: 300px;
+	width: 200px;
+	height: 200px;
 	border-radius: 150px;
 	opacity: 1.0;
 	transition: opacity 0.5s ease-in-out;
