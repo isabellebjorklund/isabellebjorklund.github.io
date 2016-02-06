@@ -55,5 +55,13 @@ ul.portfolio li img {
 	width: 300px;
 	height: 300px;
 	border-radius: 150px;
+	opacity: 1.0;
+	transition: opacity 0.5s ease-in-out;
+}
+
+
+ul.portfolio li img:hover {
+	transition: opacity 0.5s ease-in-out;
+	opacity: 0.5;
 }
 
