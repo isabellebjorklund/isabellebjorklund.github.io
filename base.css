@@ -82,3 +82,7 @@ img.right {
 .menu h2 {
 	text-align:center;
 }
+
+.gallery {
+	overflow: auto;
+}
