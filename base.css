@@ -73,11 +73,9 @@ img.hero {
 img.left {
 	width: 48%;
 	float: left;
-	height: 320px;
 }
 
 img.right {
 	width: 48%;
 	float: right;
-	height: 320px;
 }
