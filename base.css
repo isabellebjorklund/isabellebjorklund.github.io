@@ -23,3 +23,8 @@ article img {
 	border-radius: 10px;
 	background-color: white;
 }
+
+article p {
+
+	font-size: 2em;
+}
