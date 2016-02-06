@@ -1,4 +1,25 @@
 body
 {
 	font-family: "Wire One"
+    color: #444444;
+    text-rendering: optimizelegibility;
+    -webkit-font-smoothing: antialiased;
+    max-width: 52.5em;
+    min-width: 48.0em;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 16px;
+}
+
+article img {
+	display: block;
+	max-width: 660px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 24px;
+	margin-bottom: 24px;
+	padding: 6px;
+	border: 1px solid #D8D8D8;
+	border-radius: 10px;
+	background-color: white;
 }
