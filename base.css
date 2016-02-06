@@ -27,3 +27,8 @@ article img {
 article p {
 	font-size: 1.4em;
 }
+
+ul.portfolio li:after {
+    content: url('portfolio/trigla.jpg');
+}
+
