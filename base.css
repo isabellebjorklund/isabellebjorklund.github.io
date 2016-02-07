@@ -95,7 +95,7 @@ img.right {
 
 .menu li {
 	display: inline-block;
-	min-width: 10%;
+	margin-right: 10%;
 
 }
 
