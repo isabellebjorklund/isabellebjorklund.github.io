@@ -77,12 +77,14 @@ img.right {
 }
 
 .menu h1 {
+	display: inline;
 	text-align: center;
 	font-size: 1.2em;
 	margin: 0;
 }
 
 .menu h2 {
+	display: inline;
 	text-align:center;
 	font-size: 0.9em;
 	margin: 0;
@@ -90,6 +92,7 @@ img.right {
 
 
 .menu ul {
+	display: inline;
 	margin-left: 10%;
 }
 
