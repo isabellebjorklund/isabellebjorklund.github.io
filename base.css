@@ -88,7 +88,7 @@ img.right {
 	margin-left: 10%;
 }
 
-.menu li {
+.menu li a {
 	display: inline-block;
 	min-width: 10%;
 
@@ -96,5 +96,7 @@ img.right {
 
 
 .gallery {
-	overflow: auto;
+	overflow: auto; 
+	margin-bottom: 20px; 
+}
 }
