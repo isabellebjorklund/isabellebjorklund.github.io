@@ -94,9 +94,12 @@ img.right {
 
 }
 
+.menu {
+	border-bottom: solid #444444 1px;
+}
 
 .gallery {
 	overflow: auto; 
 	margin-bottom: 20px; 
 }
-}
+
