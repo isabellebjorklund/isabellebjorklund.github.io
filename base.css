@@ -109,6 +109,13 @@ img.right {
 	margin-bottom: 20px; 
 }
 
+
+footer {
+	border-top: black 1px solid;
+	padding-top: 1%;
+	margin-top: 5%;
+}
+
 footer img {
 	width: 4%;
 }
