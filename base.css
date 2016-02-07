@@ -83,6 +83,18 @@ img.right {
 	text-align:center;
 }
 
+
+.menu ul {
+	margin-left: 10%;
+}
+
+.menu li a {
+	display: inline-block;
+	min-width: 10%;
+
+}
+
+
 .gallery {
 	overflow: auto;
 }
