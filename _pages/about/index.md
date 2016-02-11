@@ -1,0 +1,11 @@
+---
+title: About
+---
+![](hero.jpg)
+
+This spring I am going to graduate with a Bachelor of Fine Arts in Product Design. I always want to learn new things and thats why I like to work in broad field in both industrial design and illustration.
+
+I come from a creative family and their talent got me interested in sketching and painting. Togheter with this, I have always been a curius person and always questioned everything with "why and how"? This got me interested in how I could make products better based on the user.
+
+A big part of my design process is about questioning and researching because the "why" gives you the answer. I want to create products with thought, functionality and good aesthetics. My ambition as a designer is to create products that can facilitate for the user. What makes me interested in design, is the understanding of the user and to use my qualities to solve their problems.
+
