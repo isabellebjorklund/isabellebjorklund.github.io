@@ -49,20 +49,20 @@ article p {
 Portfolio list
 */
 
-ul.portfolio li {
+section.portfolio ul li {
 	display: inline-block;
 	margin: 3%;
 	margin-bottom: 8%;	
 }
 
-ul.portfolio li a {
+section.portfolio ul li a {
 	text-align: center;
 	display: inherit;
 	text-transform: uppercase;
 	font-size: 2em;
 }
 
-ul.portfolio li img {
+section.portfolio ul li img {
 	display: block;
 	width: 200px;
 	height: 200px;
@@ -72,7 +72,7 @@ ul.portfolio li img {
 }
 
 
-ul.portfolio li img:hover {
+section.portfolio ul li img:hover {
 	transition: opacity 0.5s ease-in-out;
 	opacity: 0.5;
 }
