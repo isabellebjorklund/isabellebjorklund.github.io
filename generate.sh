@@ -4,4 +4,6 @@ rm -rf about
 cp -r ../output/portfolio .
 cp -r ../output/about .
 cp ../output/base.css .
+cp ../output/index.html .
+cp ../output/hero.jpg .
 
