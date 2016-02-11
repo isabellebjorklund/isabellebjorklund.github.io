@@ -1,5 +1,6 @@
 ---
 title: Portfolio
+klass: portfolio
 ---
 * [![Noble](noble.jpg)Noble](noble/)
 * [![Trigla](trigla.jpg)Trigla](trigla/)
