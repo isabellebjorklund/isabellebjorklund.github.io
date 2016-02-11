@@ -3,4 +3,5 @@ rm -rf  portfolio
 rm -rf about
 cp -r ../output/portfolio .
 cp -r ../output/about .
+cp ../output/base.css .
 
