@@ -1,6 +1,9 @@
 ---
 title: Radio
 ---
+![](hero.jpg)
+![](below.png)
+
 Mini radio towards the company Chupa Chups. The brand is mostly famous of their lollipops that are 
 sold in over 150 countries around the world. We wanted to express their playfulness and use their 
 colorful palette. The idea behind the radio is to contribute a new product to their sortiment that 

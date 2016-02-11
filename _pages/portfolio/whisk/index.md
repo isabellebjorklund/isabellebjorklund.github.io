@@ -1,7 +1,8 @@
 ---
 title: Whisk
 ---
-![](top.jpg)
+![](hero.jpg)
+![](below.png)
 
 The project was about making an ergonomic whisk for the company Fiskars. The company 
 specializes in ergonomic tools and the colors black and orange is always recurring. This whisk is 
