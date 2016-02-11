@@ -54,6 +54,12 @@ article h1 {
 Portfolio list
 */
 
+section.portfolio {
+	min-width: 60em;
+	max-width: 60em;
+	margin: auto;
+}
+
 section.portfolio ul li {
 	display: inline-block;
 	margin: 3%;
