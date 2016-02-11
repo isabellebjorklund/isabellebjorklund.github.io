@@ -40,7 +40,7 @@ article img {
 
 
 article p {
-	font-size: 1.4em;
+	font-size: 1.3em;
 	text-align: justify;
 }
 
@@ -117,7 +117,7 @@ nav li {
 }
 
 nav {
-	border-bottom: solid #444444 1px;
+	border-bottom: solid #cccccc 1px;
 	margin-bottom: 2%;
 }
 
