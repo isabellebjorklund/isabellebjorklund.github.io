@@ -45,6 +45,10 @@ article p {
 }
 
 
+article h1 {
+	display: none;
+}
+
 
 /*
 Portfolio list
@@ -83,14 +87,12 @@ section.portfolio ul li img:hover {
 Menu
 */
 nav h1 {
-	display: inline;
 	text-align: center;
 	font-size: 0.8em;
 	margin: 0;
 }
 
 nav h2 {
-	display: inline;
 	text-align:center;
 	font-size: 0.5em;
 	margin: 0;
@@ -125,7 +127,7 @@ footer {
 }
 
 footer img {
-	width: 4%;
+	width: 7%;
 }
 
 
