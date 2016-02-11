@@ -1,7 +1,6 @@
 ---
 title: Radio
 ---
-![](hero.jpg)
 ![](below.png)
 
 Mini radio towards the company Chupa Chups. The brand is mostly famous of their lollipops that are 
