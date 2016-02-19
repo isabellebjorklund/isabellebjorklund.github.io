@@ -5,9 +5,11 @@ title: Cor
 ![](hero.jpg)
 ![](below.png)
 
-Four week project 
-Individual 
-Term 4 
+**Four week project**
+
+**Individual**
+
+**Term 4**
 
 
 
