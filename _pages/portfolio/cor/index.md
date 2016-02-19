@@ -5,6 +5,12 @@ title: Cor
 ![](hero.jpg)
 ![](below.png)
 
+Four week project 
+Individual 
+Term 4 
+
+
+
 The name Cor comes from the latin word for “heart”. This product is made to improve the current procedure when using ECG. 
 
 The main problem today is that the various Electrodes must be fixed in a particular pattern on the patient, while they sit in a particular pattern on the machine. In addition, they sit firmly in long cords cluttering. This makes it complicated for both the nurse and the patient. 
