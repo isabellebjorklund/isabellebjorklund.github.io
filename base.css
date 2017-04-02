@@ -4,7 +4,7 @@ Basics
 
 body
 {
-	font-family: "Futura";
+	font-family: "Abel";
 	color: #444444;
 	text-rendering: optimizelegibility;
 	-webkit-font-smoothing: antialiased;
@@ -19,7 +19,7 @@ body
 a {
 	text-decoration: none;
 	color: #444444;
-	Display: inline-block;
+
 }
 
 
