@@ -4,7 +4,7 @@ Basics
 
 body
 {
-	font-family: "Abel";
+	font-family: "Futura";
 	color: #444444;
 	text-rendering: optimizelegibility;
 	-webkit-font-smoothing: antialiased;
@@ -13,11 +13,13 @@ body
 	margin-left: auto;
 	margin-right: auto;
 	padding: 16px;
+	
 }
 
 a {
 	text-decoration: none;
 	color: #444444;
+	Display: inline-block;
 }
 
 
@@ -34,7 +36,6 @@ article img {
 	width: 100%;
 	padding: 6px;
 	border: 0px solid #D8D8D8;
-	border-radius: 0px;
 	background-color: white;
 }
 
@@ -55,15 +56,15 @@ Portfolio list
 */
 
 section.portfolio {
-	min-width: 60em;
-	max-width: 60em;
-	margin: auto;
+	min-width: 100%;
+	max-width: 100%;
+	margin: 10px;
 }
 
 section.portfolio ul li {
 	display: inline-block;
-	margin: 2%;
-	margin-bottom: 2%;	
+	margin: 10px;
+	margin-bottom: 10px;	
 }
 
 section.portfolio ul li a {
