@@ -151,6 +151,7 @@ ul li, ol li {
   position: relative;
   z-index: 1;
   border: none;
+  border-color: none; 
 }
 .btn-danger:hover {
   background-color: #b39968;
