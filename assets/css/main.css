@@ -133,7 +133,7 @@ ul li, ol li {
 }
 
 .btn-common {
-  background-color: #292929;
+  background-color: #292929!important;
   position: relative;
   z-index: 1;
 }
