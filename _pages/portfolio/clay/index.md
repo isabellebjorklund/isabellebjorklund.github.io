@@ -1,4 +1,0 @@
----
-title: Clay
----
-![](below.png)
