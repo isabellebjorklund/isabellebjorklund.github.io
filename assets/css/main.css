@@ -57,7 +57,7 @@ p {
 }
 
 .portfolio-item {
-  p{
+  p {
     color: #8d8d8d;
     text-transform: uppercase;
     font-family: 'Work Sans', sans-serif;
@@ -65,7 +65,7 @@ p {
     letter-spacing: 0.1em;
     padding: 10px 0;
 }
- }
+}
   
 
 h3 {
