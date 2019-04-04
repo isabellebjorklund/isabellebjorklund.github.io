@@ -360,9 +360,12 @@ a.back-to-top:hover, a.back-to-top:focus {
   font-family: work sans, sans-serif;
   text-transform: uppercase;
 }
-
-
-
+.about-profile .pro-title:after {
+  position: absolute;
+  color: #040404;
+  font-size: 14px;
+  left: 77px;
+}
 .about-profile .admin-sign {
   position: absolute;
   right: 45px;
