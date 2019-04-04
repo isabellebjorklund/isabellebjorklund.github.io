@@ -56,14 +56,16 @@ p {
   font-size: 14px;
 }
 
-.portfolio-item.p {
-  color: #8d8d8d;
-  text-transform: uppercase;
-  font-family: 'Work Sans', sans-serif;
-  font-size: 9px!important;
-  letter-spacing: 0.1em;
-  padding: 10px 0;
+.portfolio-item {
+  p{
+    color: #8d8d8d;
+    text-transform: uppercase;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 9px!important;
+    letter-spacing: 0.1em;
+    padding: 10px 0;
 }
+ }
   
 
 h3 {
