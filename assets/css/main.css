@@ -353,19 +353,14 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 .about-profile .pro-title {
   font-weight: 700;
-  color: #040404;
+  color: #040404!important;
   position: relative;
   display: inline-block;
   margin: 5px;
   font-family: work sans, sans-serif;
-  text-transform: uppercase;
+  text-transform: uppercase!important;
 }
-.about-profile .pro-title:after {
-  position: absolute;
-  color: #040404;
-  font-size: 14px;
-  left: 77px;
-}
+
 .about-profile .admin-sign {
   position: absolute;
   right: 45px;
