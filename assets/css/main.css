@@ -26,7 +26,10 @@ h1, h2, h3, h4 {
 }
 
 h3 {
-  font-family: "Source Sans Pro", sans-serif; font-size: 15px; display: block; line-height: 1.3em; 
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 15px;
+  display: block;
+  line-height: 1.3em; 
   font-weight: normal;
   text-align: center;
   padding-top: 20px;
