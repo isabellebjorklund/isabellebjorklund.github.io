@@ -67,7 +67,10 @@ p {
     padding: 10px 0;
 }
 }
-  
+
+.row {
+  margin-bottom: 25px
+}
 
 h3 {
   a
