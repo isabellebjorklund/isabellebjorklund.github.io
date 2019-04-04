@@ -352,21 +352,16 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 .about-profile .pro-title {
-  font-weight: 700;
-  color: #040404;
-  position: relative;
-  width: 120px;
-  display: inline-block;
-  margin-bottom: 5px;
+  font-weight: 700;
+  color: #040404;
+  position: relative;
+  display: inline-block;
+  margin: 5px;
+  font-family: work sans, sans-serif;
+  text-transform: uppercase;
 }
 
-.about-profile .pro-title:after {
-  position: absolute;
-  content: ':';
-  color: #040404;
-  font-size: 14px;
-  left: 77px;
-}
+
 
 .about-profile .admin-sign {
   position: absolute;
