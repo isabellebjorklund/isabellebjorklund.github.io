@@ -525,18 +525,18 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 .top-nav-collapse .navbar-nav .nav-link {
-  color: #00b4d9 !important;
+  color: #c3a774 !important;
   margin-top: 0px !important;
   margin-bottom: 0px !important;
 }
 
 .top-nav-collapse .navbar-nav .nav-link:hover {
   cursor: pointer;
-  color: #00b4d9 !important;
+  color: #333 !important;
 }
 
 .top-nav-collapse .navbar-nav li.active a.nav-link {
-  color: #00b4d9 !important;
+  color: #c3a774 !important;
 }
 
 .indigo {
@@ -587,7 +587,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 .navbar li.active a.nav-link {
-  color: #00b4d9;
+  color: #c3a774;
 }
 
 .dropdown-toggle::after {
