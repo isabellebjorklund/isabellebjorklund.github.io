@@ -58,30 +58,25 @@ p {
   font-size: 14px;
 }
 
-.portfolio-item {
-  p {
-    color: #8d8d8d;
-    text-transform: uppercase;
-    font-family: 'Work Sans', sans-serif;
-    font-size: 9px!important;
-    letter-spacing: 0.1em;
-    padding: 10px 0;
+.portfolio-item p {
+  color: #8d8d8d;
+  text-transform: uppercase;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 9px!important;
+  letter-spacing: 0.1em;
+  padding: 10px 0;
 }
+.portfolio-item a {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 15px;
+  display: block;
+  line-height: 1.3em;
+  font-weight: normal;
+  text-align: center;
+  padding-top: 20px;
 }
-
 .row {
   margin-bottom: 25px
-}
-
-h3 {
-  a
-    font-family: "Source Sans Pro", sans-serif;
-    font-size: 15px;
-    display: block;
-    line-height: 1.3em;
-    font-weight: normal;
-    text-align: center;
-    padding-top: 20px;
 }
 
 ul, ol {
@@ -772,7 +767,9 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 #hero-area .contents h5 {
   font-size: 50px;
-  color: #2a2a2a;
+  font-size: 50px;
+  color: #e4e4e4;
+  font-family: 'Work Sans', sans-serif;
 }
 
 #hero-area .contents .head-title {
