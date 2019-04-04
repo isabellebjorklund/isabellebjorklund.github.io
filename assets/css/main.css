@@ -774,10 +774,11 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 #hero-area .contents .head-title {
   color: #2a2a2a;
-  font-size: 80px;
+  font-size: 65px;
   letter-spacing: 10px;
   text-transform: uppercase;
   font-weight: 700;
+  font-family: radikal;
 }
 
 #hero-area .contents p {
