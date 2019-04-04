@@ -1199,3 +1199,6 @@ sub-title {
   padding-right: 5px;
   padding-left: 5px;
 }
+.img-responsive {
+  width: 100%;
+}
