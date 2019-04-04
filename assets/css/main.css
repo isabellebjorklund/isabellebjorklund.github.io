@@ -24,8 +24,13 @@ h1, h2, h4 {
   font-weight: 700;
   font-family: "Source Sans Pro", sans-serif;
 }
-
-.script-font {
+hr {
+  width: 60px;
+  height: 2px;
+  background: #b39964;
+  margin: 0 auto; 
+}
+ .script-font {
   font-family: 'Shadows Into Light', cursive;
 }
 
